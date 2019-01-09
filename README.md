@@ -10,3 +10,6 @@ matplotlib==2.0.2
 opencv-python==3.3.0.10
 tensorflow-gpu == 1.5.0
 ```
+
+## Reference(Original Code)
+[https://github.com/sualab/object-detection-yolov2-tf](https://github.com/sualab/object-detection-yolov2-tf)
