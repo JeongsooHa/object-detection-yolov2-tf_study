@@ -12,12 +12,9 @@ tensorflow-gpu == 1.5.0
 ```
 
 ## Reference(Original Code)
-<<<<<<< HEAD
-[https://github.com/sualab/object-detection-yolov2-tf](https://github.com/sualab/object-detection-yolov2-tf)
+- [https://github.com/sualab/object-detection-yolov2-tf](https://github.com/sualab/object-detection-yolov2-tf)
+- [http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html](http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html)
 
 ## Dataset link
 [https://drive.google.com/file/d/1qV4YSzvvTQ7rSi3iS2swkbA56QO-bbs8/view](https://drive.google.com/file/d/1qV4YSzvvTQ7rSi3iS2swkbA56QO-bbs8/view)
-=======
-- [https://github.com/sualab/object-detection-yolov2-tf](https://github.com/sualab/object-detection-yolov2-tf)
-- [http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html](http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html)
->>>>>>> febf3ed8e48e7b9785fb2d32232da24c781d6859
+
