@@ -98,9 +98,11 @@ class Optimizer(metaclass=ABCMeta):
 
 		step_losses, step_scores, eval_scores = [], [], []
 		start_time = time.time()
-
+		print('start_time {}'.format(start_time))
+		print('num_steps_per_epoch {}'.format(num_steps_per_epoch))
 		# Start training loop
 		for i in range(num_steps):
+			print('num_steps {}'.format(i))
 			# Perform a gradient update from a single minibatch
 			step_loss, step_y_true, step_y_pred, step_X = self._step(sess, **kwargs)
 			step_losses.append(step_loss)

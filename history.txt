@@ -1,0 +1,741 @@
+    1  ls
+    2  cd git
+    3  ls
+    4  cd ..
+    5  ls
+    6  ll
+    7  vi
+    8  vi ~/.zshrc
+    9  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git\n
+   10  echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc\n
+   11  ls
+   12  ll
+   13  cd git
+   14  ls
+   15  cd ..
+   16  sl
+   17  ls
+   18  cd Downloads
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd git
+   23  ls
+   24  cd Deepstudy
+   25  ls
+   26  cd .git
+   27  ls
+   28  cd ..
+   29  ls
+   30  cd ..
+   31  vi ~/.zshrc
+   32  ls
+   33  vi ~/.zshrc
+   34  ls
+   35  ll
+   36  cd ~
+   37  ls
+   38  ll
+   39  ls -all
+   40  vi ~/.zsh
+   41  vi ~/.bashrc
+   42  vi ~/.zsh
+   43  rm -rf ~/.bashrc
+   44  vi ~/.zshrc
+   45  python
+   46  python3
+   47  vi ~/.zshrc
+   48  ls
+   49  ll
+   50  cd git
+   51  ll
+   52  ls
+   53  cd
+   54  ls
+   55  vi ~/.vimrc
+   56  exit
+   57  vi ~/.zshrc
+   58  :
+   59  vi ~/.zshrc
+   60  VI ~/.vimrc
+   61  vi ~/.vimrc
+   62  rm -rf ~/.vimrc
+   63  vi ~/.vimrc
+   64  ls
+   65  cd git
+   66  ls
+   67  vi README.md
+   68  vi Dockerfile
+   69  brew install autoenv  
+   70  vi ~/.zshrc
+   71  ls
+   72  cd git
+   73  vi .env
+   74  cd ..
+   75  cd git
+   76  cd ..
+   77  cd git
+   78  cd ..
+   79  cd git
+   80  vi .env
+   81  cd ..
+   82  cd git
+   83  cd ..
+   84  cd git
+   85  cd ..
+   86  vi .env
+   87  cd git
+   88  vi .env
+   89  cd ..
+   90  cd git
+   91  cd ..
+   92  cd git
+   93  cd
+   94  open /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl\n
+   95  open /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+   96  /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl ; exit;
+   97  ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl\n
+   98  subl
+   99  subl .
+  100  brew install python3
+  101  brew uninstall python3
+  102  brew uninstall python3.6
+  103  python
+  104  python3
+  105  which python3
+  106  which python
+  107  pip3 -V
+  108  pip3 install virtualenv virtualenvwrapper
+  109  pip isntall --upgrade pip
+  110  pip3 isntall --upgrade pip
+  111  pip3 install --upgrade pip
+  112  pip3 isntall --upgrade pip
+  113  pip3 install virtualenv virtualenvwrapper
+  114  virtualenv --python=test
+  115  virtualenv3 --python=test
+  116  virtualenv --python=python3.5 test_env
+  117  virtualenv --python=python3.6 test_env
+  118  ls
+  119  cd test_env
+  120  ls
+  121  cd ..
+  122  cd test_env
+  123  ls
+  124  cd bin
+  125  ls
+  126  source activate
+  127  python
+  128  ls
+  129  ccd ..
+  130  ls
+  131  cd ..
+  132  ls
+  133  cd ~
+  134  ls
+  135  mkdir ~/.virtualenvs
+  136  vi ~/.zshrc
+  137  find /usr -name virtualenvwrapper.sh\n
+  138  sudo find /usr -name virtualenvwrapper.sh\n
+  139  find /usr -name virtualenvwrapper.sh\n
+  140  pip3 install virtualenvwrapper
+  141  cd Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages
+  142  cd /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages
+  143  ls
+  144  ll
+  145  open .
+  146  which python3
+  147  cd
+  148  which python3
+  149  brew uninstal python3
+  150  cd /usr/local
+  151  ls
+  152  cd Cellar
+  153  ls
+  154  which python3
+  155  which pip
+  156  which pip3
+  157  cd
+  158  ls
+  159  which python
+  160  which pip2
+  161  pip3 install virtualenv virtualenvwrapper
+  162  find /usr -name virtualenvwrapper.sh\n
+  163  sudo find /usr -name virtualenvwrapper.sh\n
+  164  cd /usr/local/bin
+  165  ls
+  166  cd ..
+  167  cd
+  168  find / -name virtualenvwrapper.sh
+  169  sudo find / -name virtualenvwrapper.sh
+  170  vi ~/.zshrc
+  171  ls
+  172  rm -rf test_env
+  173  mkvirtualenv test_env
+  174  ls
+  175  cd .virtualenvs
+  176  ls
+  177  cd test_env
+  178  rmvirtualenv test_env
+  179  deactivate
+  180  rmvirtualenv test_env
+  181  ls
+  182  workon
+  183  rmvirtualenv test_env
+  184  mkvirtualenv test_env
+  185  workon
+  186  deactivate
+  187  rmvirtualenv test_env
+  188  mkvirtualenv tensorflow
+  189  python
+  190  which python
+  191  pip -V
+  192  pip install --upgrade tensorflow
+  193  ls
+  194  workon
+  195  cd tensorflow
+  196  ls
+  197  vi test.py
+  198  python test.py
+  199  vi test.py
+  200  python test.py
+  201  workon
+  202  cd ~/.virtualenvs
+  203  ls
+  204  cd tensorflow
+  205  ls
+  206  vi .env
+  207  cd ..
+  208  vi .env
+  209  ls
+  210  cd tensorflow
+  211  ls
+  212  vi .e
+  213  vi .env
+  214  ls
+  215  cd ..
+  216  ls
+  217  cd tensorflow
+  218  deactivate
+  219  cd ..
+  220  ls
+  221  cd tensorflow
+  222  ls
+  223  ll
+  224  ls -all
+  225  vi .vimrc
+  226  ls
+  227  workon
+  228  cd ~/.virtualenvs/tensorflow
+  229  ls
+  230  python test.py
+  231  vi test.py
+  232  python test.py
+  233  vi test.py
+  234  python test.py
+  235  vi ~/.zshrc
+  236  pip install matplotlib
+  237  pip install numpy
+  238  ls
+  239  pip install opencv-python
+  240  python
+  241  ls
+  242  vi mnist.py
+  243  python mnist.py
+  244  cd ~/.virtualenvs/tensorflow
+  245  ls
+  246  vi mnIST
+  247  vi mnist.py
+  248  python
+  249  tensorflow version
+  250  python -c 'import tensorflow as tf; print(tf.__version__)'
+  251  python3
+  252  pip install jupyter
+  253  jupyter
+  254  jupyter --help
+  255  notebook
+  256  ls
+  257  cd bin
+  258  ls
+  259  cd ..
+  260  ls
+  261  pip install jupyter
+  262  notebook
+  263  cd bin
+  264  ll
+  265  cd jupyter
+  266  jupyter
+  267  jupyter --path
+  268  jupyter
+  269  pip install ipkernel
+  270  pip install ipykernel
+  271  jupyter notebook
+  272  cd ..
+  273  ls
+  274  jupyter notebook
+  275  cd ~/.virtualenvs/tensorflow
+  276  ls
+  277  cd MNIST_data
+  278  ls
+  279  ll
+  280  ls -all
+  281  cd ..
+  282  ls
+  283  cd MNIST_data
+  284  cd ..
+  285  ls
+  286  ll
+  287  vi .env
+  288  cd bin
+  289  ls
+  290  cd ..
+  291  ls
+  292  rm -rf .env
+  293  ls
+  294  cd MNIST_data
+  295  ls
+  296  deactivate
+  297  ls
+  298  which python
+  299  which python3
+  300  brew uninstall python3
+  301  /Applications/Python\ 3.6/Install\ Certificates.command 
+  302  cd ..
+  303  ls
+  304  source bin/activate
+  305  ls
+  306  rm mnIST
+  307  rm -rf mnist.py
+  308  ls
+  309  cd ~/.virtualenvs/tensorflow
+  310  ls
+  311  source bin/activate
+  312  ls
+  313  clean
+  314  ll
+  315  clear
+  316  ll
+  317  ls
+  318  cd ~/
+  319  ls
+  320  ll
+  321  ls -all
+  322  vi ~/.vimrc
+  323  vi ~/.zshrc
+  324  exit
+  325  ll
+  326  vi ~/.zshrc
+  327  ll
+  328  exit
+  329  ll
+  330  deactivate
+  331  exit
+  332  vi ~/.zshrc
+  333  ls -all
+  334  ll
+  335  exit
+  336  ll
+  337  ls -all
+  338  la
+  339  open .
+  340  m
+  341  m-cli
+  342  /Applications/Alfred.app/Contents/Resources/reindex.sh ; exit;
+  343  ls
+  344  cd ~/.virtualenvs
+  345  workon
+  346  cd tensorflow
+  347  ls
+  348  vi ~/.zshrc
+  349  vi ~/.vimrc
+  350  vi ~/.bash_history
+  351  vi ~/.zshrc
+  352  virstart
+  353  cd ~/.virtualenvs/tensorflow
+  354  virstart
+  355  ls
+  356  jupyter
+  357  jupyter nootbook
+  358  jupyter notebook
+  359  python
+  360  ls
+  361  vi conertXY.py
+  362  python conertXY.py
+  363  vi conertXY.py
+  364  open .
+  365  python
+  366  python conertXY.py
+  367  python3 conertXY.py
+  368  exit
+  369  ls
+  370  cd ~/.virtualenvs
+  371  ls
+  372  cd tensorflow
+  373  ls
+  374  virstart
+  375  git clone https://github.com/tensorflow/tensorflow.git tutorials
+  376  ls
+  377  cd tutorials
+  378  ls
+  379  cd tensorflow
+  380  ls
+  381  cd examples/udacity
+  382  cd ..
+  383  cd tutorials
+  384  ls
+  385  cd mnist
+  386  ls
+  387  python fully_connected_feed.py
+  388  ls
+  389  jupyter notebook
+  390  open .
+  391  ls
+  392  tensorboard --logdir=='/tmp/tensorflow/mnist/logs/fully_connected_feed' 
+  393  ls
+  394  cd ~/.virtualenvs/tensorflow
+  395  virstart
+  396  ls
+  397  cd tutorials
+  398  ls
+  399  cd tensorflow/examples/tutorials
+  400  ls
+  401  cd mnist
+  402  ls
+  403  python fully_connected_feed.py
+  404  tensorboard --logdir="/tmp/tensorflow/mnist/logs/fully_connected_feed"
+  405  cd ~/.virtualenvs
+  406  cd tensorflow
+  407  ls
+  408  virstart
+  409  tensorboard --logdir="/tmp/tensorflow/mnist/logs/fully_connected_feed"
+  410  tensorboard --logdir="/tmp/tensorflow/mnist/logs/fully_connected_feed2"
+  411  virstart
+  412  jupyter notebook
+  413  ls
+  414  cd ..
+  415  ls
+  416  cd ..
+  417  ls
+  418  git clone https://github.com/solaris33/char-rnn-tensorflow.git
+  419  ls
+  420  ll
+  421  la
+  422  ls -all
+  423  git init
+  424  ls
+  425  ll
+  426  la
+  427  vi .git
+  428  cd .git
+  429  ls
+  430  cd ..
+  431  la
+  432  rm -rf .git
+  433  ls
+  434  cd char-rnn-tensorflow
+  435  ls
+  436  la
+  437  vi .gitignore
+  438  cd ..
+  439  virstart
+  440  cd char-rnn-tensorflow
+  441  ls
+  442  la
+  443  rm -rf .git
+  444  ls
+  445  git init
+  446  ls
+  447  git commit -m "first commit"
+  448  git add .
+  449  git commit -m "first commit"
+  450  git remote add origin https://github.com/JeongsooHa/char-rnn-tensorflow.git
+  451  git push -u origin master
+  452  ls
+  453  vi README.md
+  454  git add README.md
+  455  git commit -m "modify README.md"
+  456  git push origin master
+  457  ls
+  458  python train.py
+  459  ls
+  460  open .
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd char-rnn-tensorflow
+  465  ls
+  466  cd ..
+  467  pip install opencv-python
+  468  python
+  469  ls
+  470  cd char-rnn-tensorflow
+  471  ls
+  472  vi .gitignore
+  473  cd ..
+  474  ls
+  475  git clone https://github.com/JeongsooHa/YOLO_test.git
+  476  ls
+  477  cd YOLO_test
+  478  ls
+  479  ls -all
+  480  git init
+  481  ls
+  482  cd ~/.virtualenvs/tensorflow/char-rnn-tensorflow
+  483  vi .gitignore
+  484  git add
+  485  git add .
+  486  git commit -m "first commit"
+  487  git push orgin master
+  488  git push origin master
+  489  ssh linux2.ce.hongik.ac.kr
+  490  ssh B611231@linux2.ce.hongik.ac.kr
+  491  clear
+  492  ssh 192.168.100.123
+  493  ssh episci@192.168.100.123
+  494  ls
+  495  cd ~/.virtualenvs
+  496  ls
+  497  cd tensorflow
+  498  ls
+  499  virstart
+  500  ls
+  501  git clone https://github.com/JeongsooHa/object-detection-yolov2-tf.git
+  502  cd object-detection-yolov2-tf
+  503  ls
+  504  ll
+  505  ls -all
+  506  git init
+  507  git clone https://github.com/sualab/asirra-dogs-cats-classification.git
+  508  ls
+  509  rm -rf asirra-dogs-cats-classification
+  510  git clone https://github.com/sualab/object-detection-yolov2-tf.git
+  511  ls
+  512  cd object-detection-yolov2-tf
+  513  ll
+  514  ls -all
+  515  cd .
+  516  ls
+  517  ls -all
+  518  cd ..
+  519  ls
+  520  cd object-detection-yolov2-tf
+  521  ls
+  522  ls -all
+  523  rm -rf .git
+  524  ls
+  525  cd ..
+  526  ls
+  527  cd object-detection-yolov2-tf
+  528  mv * ./..
+  529  ls
+  530  cd ..
+  531  ls
+  532  ll
+  533  la
+  534  rm -rf object-detection-yolov2-tf
+  535  ls
+  536  ll
+  537  la
+  538  ls
+  539  vi README.md
+  540  git add .
+  541  git push origin master
+  542  cd ..
+  543  ls
+  544  cd object-detection-yolov2-tf
+  545  ls
+  546  git add .
+  547  git push origin master
+  548  ls
+  549  cd ..
+  550  ls
+  551  rm -rf object-detection-yolov2-tf
+  552  ls
+  553  git clone https://github.com/JeongsooHa/object-detection-yolov2-tf.git
+  554  ls
+  555  cd object-detection-yolov2-tf
+  556  ls
+  557  python train.py
+  558  ls
+  559  cd datasets
+  560  ls
+  561  cd ..
+  562  ls
+  563  open .
+  564  ls
+  565  vi train.py
+  566* cd Downloads
+  567* ls
+  568* cd face
+  569* pwd
+  570* cd ~
+  571* ls
+  572* cd ~/Downloads/data/face
+  573* python
+  574* python3
+  575* ls
+  576* vi test2.py
+  577* python3 test2.py
+  578* vi test2.py
+  579* python3 test2.py
+  580* vi test2.py
+  581* python3 test2.py
+  582* vi test2.py
+  583* python3 test2.py
+  584* vi test2.py
+  585* python3 test2.py
+  586* vi test2.py
+  587* python3 test2.py
+  588* python3
+  589* vi test2.py
+  590  python
+  591  ls
+  592* python3
+  593* ls
+  594* sudo python3 test2.py
+  595* vi test2.py
+  596* vi test3.py
+  597* python3 test3.py
+  598* vi test3.py
+  599* python3 test3.py
+  600* vi test3.py
+  601* python3 test3.py
+  602* vi test3.py
+  603* python3 test3.py
+  604* vi test3.py
+  605* python3 test3.py
+  606* vi test3.py
+  607* python3 test3.py
+  608* vi test3.py
+  609* python3 test3.py
+  610* vi test3.py
+  611* ls
+  612* python3 test3.py
+  613* python3 test3.py >> test3.txt
+  614* vi test3.txt
+  615* vi test3.py
+  616* python3 test3.py
+  617* vi test3.py
+  618* python3 test3.py
+  619* vi test3.py
+  620* python3 test3.py
+  621* vi test3.py
+  622* ls
+  623* rm -rf test2.py
+  624* rm test3.py test3.txt 
+  625* ls
+  626* close
+  627* exit
+  628  open .
+  629  ls
+  630  la
+  631  vi .gitignore
+  632  ls
+  633  cd ..
+  634  ls
+  635  rm -rf YOLO_test
+  636  ls
+  637  vi MNIST
+  638  cd MNIST_data
+  639  ls
+  640  la
+  641  ll
+  642  cd ..
+  643  ls
+  644  cd char-rnn-tensorflow
+  645  ll
+  646  la
+  647  vi .gitignore
+  648  cd ..
+  649  ls
+  650  cd object-detection-yolov2-tf
+  651  vi .gitignore
+  652  ls
+  653  git add .
+  654  git push origin master
+  655  ls
+  656  cd ..
+  657  ls
+  658  rm -rf object-detection-yolov2-tf
+  659  ls
+  660  git clone https://github.com/JeongsooHa/object-detection-yolov2-tf_study.git
+  661  ls
+  662  cd object-detection-yolov2-tf_study
+  663  ls
+  664  la
+  665  git connit -m "first commit"
+  666  git commit -m "first commit"
+  667  git init
+  668  git add .
+  669  git commit -m "first commit"
+  670  git push origin master
+  671  ls
+  672  la
+  673  git clone https://github.com/sualab/object-detection-yolov2-tf.git
+  674  ls
+  675  cd object-detection-yolov2-tf
+  676  la
+  677  rm -rf .git
+  678  la
+  679  mv . ../
+  680  mv ./ ../
+  681  ls
+  682  mv ./* ../
+  683  ls
+  684  cd ..
+  685  ls
+  686  rm -rf object-detection-yolov2-tf
+  687  ls
+  688  vi README.md
+  689  git add .
+  690  git commit -m "first commit"
+  691  git push origin master
+  692  ls
+  693  cd ..
+  694  ls
+  695  cd char-rnn-tensorflow
+  696  ls
+  697  vi README.md
+  698  cd ..
+  699  ls
+  700  cd object-detection-yolov2-tf_study
+  701  ls
+  702  vi README.md
+  703  git add README.md
+  704  git commit -m "modify README"
+  705  git push origin master
+  706  ls
+  707  open .
+  708  ls
+  709  vi .gitignore
+  710  la
+  711  vi .gitignore
+  712  git add .gitignore
+  713  git commit -m "Add gitignore"
+  714  git add .
+  715  git push origin master
+  716  ls
+  717  vi README.md
+  718  git add README.md
+  719  git commit -m "modify README"
+  720  ls
+  721  python
+  722  ls
+  723  python train.py
+  724  ls
+  725  vi train.py
+  726  ls
+  727  vi train.py
+  728  python train.py
+  729  ls
+  730  vi train.py
+  731  open .
+  732  python
+  733  ls
+  734  git archive -o test.zip HEAD $(git diff --name-only HEAD^)
+  735  python
+  736  ls
+  737  jupyter notebook
+  738  jupyter notebook &
+  739  pip install scipy
+  740  pip install imageio
+  741  history

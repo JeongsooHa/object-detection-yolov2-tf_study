@@ -8,7 +8,7 @@ from learning.optimizers import MomentumOptimizer as Optimizer
 from learning.evaluators import RecallEvaluator as Evaluator
 
 """ 1. Load and split datasets """
-root_dir = os.path.join('data/face/') # FIXME
+root_dir = os.path.join('./data/face/') # FIXME
 trainval_dir = os.path.join(root_dir, 'train')
 
 # Load anchors
