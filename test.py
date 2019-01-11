@@ -45,9 +45,9 @@ print('Test performance: {}'.format(test_score))
 
 """ 4. Draw boxes on image """
 draw_dir = os.path.join(test_dir, 'draws') # FIXME
+im_dir = os.path.join(test_dir, 'images') # FIXME
 if not os.path.isdir(draw_dir):
     os.mkdir(draw_dir)
-im_dir = os.path.join(test_dir, 'images') # FIXME
 im_paths = []
 im_paths.extend(glob.glob(os.path.join(im_dir, '*.jpg')))
 for idx, (img, y_pred, im_path) in enumerate(zip(test_set.images, test_y_pred, im_paths)):
