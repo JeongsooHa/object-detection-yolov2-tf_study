@@ -1,6 +1,7 @@
 # object-detection-yolov2-tensorflow
 - Object-detection-tutorials with YOLOv2 (Tensorflow)
 - 원본 repository https://github.com/sualab/object-detection-yolov2-tf
+- 코드 부연 설명 http://research.sualab.com/machine-learning/computer-vision/2018/01/17/image-classification-deep-learning.html(각 클래스에 대한 자세한 설명)
 
 ## Requirements
 Python 3.5
